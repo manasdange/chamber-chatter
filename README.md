@@ -1,4 +1,4 @@
-# Chatter Chamber Slack App
+# Chatter Chamber App
 
 Deployed [here](https://chamber-chatter.web.app/register)
 
