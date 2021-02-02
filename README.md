@@ -1,6 +1,6 @@
 # Chatter Chamber Slack App
 
-Deployed [here](chamber-chatter.web.app/register)
+Deployed [here](https://chamber-chatter.web.app/register)
 
 ## Features
 - Login/Register from firebase authentication.
